@@ -1,2 +1,2 @@
-import ExerciseForm from '@/exercise-2';
+import ExerciseForm from '@/components/exercise-2';
 import { mount } from '@vue/test-utils';
